@@ -1,56 +1,33 @@
-## Hi there 👋
-
-<!--
-**doudi230604/doudi230604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Hi, I'm Darine 🌷͙֒
 
-🎓 Cybersecurity Master's Student
-💻 Computer Science Graduate
-🔐 Interested in Cybersecurity, Network Security & Digital Privacy
+**Cybersecurity Master's Student | Computer Science Graduate**
 
-I'm continuously developing my technical skills through hands-on practice, learning, and exploring new cybersecurity technologies.
+I'm interested in building practical cybersecurity solutions, understanding security threats, and exploring technologies that improve digital security.
 
-### ✨ Interests
-- Cybersecurity & Information Security
-- Network Security
+### Areas of Interest
 - Security Operations (SOC)
-- Threat Detection & Analysis
+- Network Security & Traffic Analysis
 - Digital Forensics
-- Access Control & Privacy
+- Intrusion Detection & Threat Analysis
+- Attribute-Based Access Control (ABAC)
 - IoT Security
 
-### 🛠️ Technical Skills
+### Technical Skills
+
 - **Languages:** Python, Bash, SQL
-- **Operating Systems:** Linux, Kali Linux, Fedora
-- **Security:** Network Analysis, Intrusion Detection, Security Fundamentals
-- **Technologies:** Blockchain, Smart Contracts, Machine Learning
+- **Operating Systems:** Linux, Fedora, Kali Linux
+- **Security:** Network Analysis, Intrusion Detection, Access Control
+- **Technologies:** Machine Learning, Blockchain, Smart Contracts
 
-### 📚 Currently Learning
-- SIEM & Security Monitoring
-- Incident Response
-- Network Forensics
-- Threat Intelligence
-- Security Analysis
+### Current Focus
+- Developing practical cybersecurity projects
+- Learning SIEM and security monitoring
+- Exploring network forensics and incident response
+- Researching access control mechanisms
 
-### 💌 Let's Connect
+### Connect
 
-I'm always open to learning, exchanging knowledge, and connecting with people in the cybersecurity community.
+I'm open to cybersecurity internships, research opportunities, and collaborative projects.
 
-**Interested in cybersecurity internships, research opportunities, and collaboration.**
-
----
-
-*Learning, growing, and exploring one step at a time. ♡*
+[GitHub](https://github.com/doudi230604)
